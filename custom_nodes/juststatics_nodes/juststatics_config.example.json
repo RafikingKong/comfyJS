@@ -1,0 +1,4 @@
+{
+    "_comment": "Copy this file to juststatics_config.json and edit base_dir to match your setup. base_dir contains needs_edit/, in_progress/, processed/, approved/ subfolders.",
+    "base_dir": "C:\\juststatics-comfy"
+}

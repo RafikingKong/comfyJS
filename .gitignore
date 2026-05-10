@@ -1,0 +1,31 @@
+# Local config (paths are user-specific)
+custom_nodes/juststatics_nodes/juststatics_config.json
+
+# fal.ai credentials (when using gokayfem fal-API node)
+config.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and runtime
+*.log
+logs/
+
+# Test data with potentially sensitive client content
+test_data/
